@@ -154,7 +154,7 @@
 	<distributionManagement>
         <repository>
             <id>releases</id>
-                    <url>http://35.154.165.41:8081/repository/maven-releases/</url>
+                    <url>http://15.207.72.219:8081/repository/maven-releases/</url>
         </repository>
     	</distributionManagement>
 </project>
